@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "CookieFighter.data.unityweb",
+"asmCodeUrl": "CookieFighter.asm.code.unityweb",
+"asmMemoryUrl": "CookieFighter.asm.memory.unityweb",
+"asmFrameworkUrl": "CookieFighter.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}

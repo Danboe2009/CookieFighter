@@ -1,0 +1,72 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon R9 200 Series (ID=0x67b0)
+    Vendor:   ATI
+    VRAM:     4073 MB
+    Driver:   22.19.157.3
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Users\Voltron\Dropbox\Private Server\Cookie Fighter\Windows 64-bit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Users\Voltron\Dropbox\Private Server\Cookie Fighter\Windows 64-bit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Users\Voltron\Dropbox\Private Server\Cookie Fighter\Windows 64-bit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Users\Voltron\Dropbox\Private Server\Cookie Fighter\Windows 64-bit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Users\Voltron\Dropbox\Private Server\Cookie Fighter\Windows 64-bit_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading F:\Users\Voltron\Dropbox\Private Server\Cookie Fighter\Windows 64-bit_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: F:\Users\Voltron\Dropbox\Private Server\Cookie Fighter\Windows 64-bit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Users\Voltron\Dropbox\Private Server\Cookie Fighter\Windows 64-bit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\Users\Voltron\Dropbox\Private Server\Cookie Fighter\Windows 64-bit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Users\Voltron\Dropbox\Private Server\Cookie Fighter\Windows 64-bit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Users\Voltron\Dropbox\Private Server\Cookie Fighter\Windows 64-bit_Data\Managed\UnityEngine.CloudBuild.dll (this message is harmless)
+Loading F:\Users\Voltron\Dropbox\Private Server\Cookie Fighter\Windows 64-bit_Data\Managed\UnityEngine.CloudBuild.dll into Unity Child Domain
+- Completed reload, in 13.268 seconds
+Platform assembly: F:\Users\Voltron\Dropbox\Private Server\Cookie Fighter\Windows 64-bit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Users\Voltron\Dropbox\Private Server\Cookie Fighter\Windows 64-bit_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/VideoDecodeAndroid' - Pass 'RGBAEXTERNAL_TO_RGBA' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VideoDecodeAndroid' - Setting to default shader.
+desktop: 1920x1080 59Hz; virtual: 3200x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 126.349998 ms
+Volunteer : 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: fc8 -> priority: 1 
+  Thread -> id: 3d58 -> priority: 1 
+  Thread -> id: 3080 -> priority: 1 
+  Thread -> id: e10 -> priority: 1 
+Left1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Volunteer : 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Left0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Volunteer : 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Left0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Volunteer : 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Left1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Volunteer : 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
