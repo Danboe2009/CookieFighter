@@ -15,7 +15,7 @@ public class Grass : MonoBehaviour {
 		for (int x = 0; x < width; x++) {
 			for (int y = 0; y < width; y++) {
 				GameObject temp = Instantiate (grass[Random.Range(0,3)]);
-				temp.transform.position = new Vector3((x - (width *0.5f)) * 3.2f, 0, (y-2) * 3.2f);
+				temp.transform.position = new Vector3((x - (width *0.5f)) * 3.2f, 0, (y-4) * 3.2f);
 				temp.transform.SetParent(this.gameObject.transform);
 			}
 		}

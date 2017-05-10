@@ -11,7 +11,7 @@ public class Attacker : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		int volunteer = Random.Range (0, person.Length);
-		Debug.Log ("Volunteer : " + volunteer);
+		//Debug.Log ("Volunteer : " + volunteer);
 		GameObject temp = Instantiate (person[volunteer]);
 		temp.transform.position = this.transform.position;
 		temp.transform.SetParent (this.transform);
